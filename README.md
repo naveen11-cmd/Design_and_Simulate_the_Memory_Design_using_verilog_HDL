@@ -87,7 +87,6 @@ endmodule
 
 <h3>Output Waveform</h3>
 
-![image](https://github.com/subhashspace/Design_and_Simulate_the_Memory_Design_using_verilog_HDL/blob/main/ram_8x8.png)
 
 # ROM
 
@@ -148,7 +147,6 @@ endmodule
 
 <h3>Output Waveform</h3>
 
-![image](https://github.com/subhashspace/Design_and_Simulate_the_Memory_Design_using_verilog_HDL/blob/main/rom_random.png)
 
 # FIFO
 <h3>Verilog Code</h3>
@@ -245,7 +243,6 @@ endmodule
 
 <h3>Output Waveform</h3>
 
-![image](https://github.com/subhashspace/Design_and_Simulate_the_Memory_Design_using_verilog_HDL/blob/main/fifo_8x8.png)
 
 # Conclusion
 The RAM, ROM, FIFO memory with read and write operations was designed and successfully simulated using Verilog HDL. The testbench verified both the write and read functionalities by simulating the memory operations and observing the output waveforms. The experiment demonstrates how to implement memory operations in Verilog, effectively modeling both the reading and writing processes.
