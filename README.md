@@ -86,7 +86,8 @@ endmodule
 ```
 
 <h3>Output Waveform</h3>
-![image]()
+
+![image](https://github.com/naveen11-cmd/Design_and_Simulate_the_Memory_Design_using_verilog_HDL/blob/main/Screenshot%202026-03-16%20122130.png)
 
 
 # ROM
@@ -148,7 +149,7 @@ endmodule
 
 <h3>Output Waveform</h3>
 
-![image]()
+![image](https://github.com/naveen11-cmd/Design_and_Simulate_the_Memory_Design_using_verilog_HDL/blob/main/Screenshot%202026-03-16%20123004.png)
 
 
 # FIFO
